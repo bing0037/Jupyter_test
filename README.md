@@ -2,6 +2,13 @@
 
 Use tensorflow environment online.
 
+Excellent study notebook for projects in python:
+
+* Notebook & Code integrated
+* On line environment OR local environment selection
+* .py file produced automatically
+
+
 Colaboratory is a hosted Jupyter notebook environment that is free to use and requires no setup.
 
 Ref: 
@@ -13,12 +20,11 @@ https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d
 
 e.g.: [Env_test.ipynb](https://colab.research.google.com/github/bing0037/Jupyter_test/blob/master/Env_test.ipynb)
 
-## 2 Connect to environment
+## 2 Connect to the environment
 
 * remote environment(default)
 * local environment
-
-ref: https://research.google.com/colaboratory/local-runtimes.html
+(ref: https://research.google.com/colaboratory/local-runtimes.html)
 
 ## 3 Write & run the notebook(Notebook and IDE in browser)
 
