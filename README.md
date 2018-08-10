@@ -11,7 +11,7 @@ https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d
 
 ## 1 Check current notebooks
 
-e.g.: [Env_test](https://colab.research.google.com/github/bing0037/Jupyter_test/blob/master/Env_test.ipynb)
+e.g.: [Env_test.ipynb](https://colab.research.google.com/github/bing0037/Jupyter_test/blob/master/Env_test.ipynb)
 
 ## 2 Connect to environment
 
@@ -20,6 +20,10 @@ e.g.: [Env_test](https://colab.research.google.com/github/bing0037/Jupyter_test/
 
 ref: https://research.google.com/colaboratory/local-runtimes.html
 
-## 3 Run & Test the notebook
+## 3 Write & run the notebook(Notebook and IDE in browser)
 
 ## 4 Save to github
+
+## 5 Download as .py and run in local environment
+
+e.g.: [Env_test.py](https://github.com/bing0037/Jupyter_test/blob/master/env_test.py)
