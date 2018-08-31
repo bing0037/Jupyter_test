@@ -18,7 +18,7 @@ https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d
 
 ## 1 Check current notebooks
 
-e.g.: [Env_test.ipynb](https://colab.research.google.com/github/bing0037/Jupyter_test/blob/master/Env_test.ipynb)
+e.g.: [Env_test.ipynb](https://colab.research.google.com/github/bing0037/Jupyter_test/blob/master/Env_test.ipynb?hl=en#scrollTo=NBY90C7Zjg1p&uniqifier=1)
 
 ## 2 Connect to the environment
 
